@@ -1,0 +1,172 @@
+{
+    "providers": [
+       {
+         "type": "bitmap",
+         "file": "icons:gui.png",
+         "ascent": 13,
+         "height": 20,
+         "chars": [
+            "\u4E00\u4E01\u4E02\u4E03\u4E04\u4E05\u4E06\u4E07",
+            "\u4E08\u4E09\u4E0A\u4E0B\u4E0C\u4E0D\u4E0E\u4E0F",
+            "\u4E10\u4E11\u4E12\u4E13\u4E14\u4E15\u4E16\u4E17",
+            "\u4E18\u4E19\u4E1A\u4E1B\u4E1C\u4E1D\u4E1E\u4E1F",
+            "\u4E20\u4E21\u4E22\u4E23\u4E24\u4E25\u4E26\u4E27",
+            "\u4E28\u4E29\u4E2A\u4E2B\u4E2C\u4E2D\u4E2E\u4E2F",
+            "\u4E30\u4E31\u4E32\u4E33\u4E34\u4E35\u4E36\u4E37"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:buttons_small.png",
+         "ascent": 13,
+         "height": 20,
+         "chars": [
+            "\u4E51",
+            "\u4E52",
+            "\u4E53",
+            "\u4E54",
+            "\u4E55"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:attributes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\u4E65\u4E66\u4E67\u4E68\u4E69\u4E6A\u4E6B\u4E6C\u4E6D\u4E6E",
+            "\u4E6F\u4E70\u4E71\u4E72\u4E73\u4E74\u4E75\u4E76\u4E77\u4E78"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:brewing_guide_1.png",
+         "ascent": 13,
+         "height": 166,
+         "chars": [
+            "\u4E79"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:brewing_guide_2.png",
+         "ascent": 13,
+         "height": 166,
+         "chars": [
+            "\u4E7A"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:brewing_guide_3.png",
+         "ascent": 65,
+         "height": 65,
+         "chars": [
+            "\u4E7B"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:anvil_1.png",
+         "ascent": 13,
+         "height": 166,
+         "chars": [
+            "\u4E7C"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:anvil_2.png",
+         "ascent": 13,
+         "height": 166,
+         "chars": [
+            "\u4E7D"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:beacon_1.png",
+         "ascent": 17,
+         "height": 105,
+         "chars": [
+            "\u4E7E"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:beacon_2.png",
+         "ascent": 17,
+         "height": 105,
+         "chars": [
+            "\u4E7F"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:mobs_1.png",
+         "ascent": 13,
+         "height": 20,
+         "chars": [
+            "\u4E88\u4E89\u4E8A\u4E8B\u4E8C\u4E8D\u4E8E\u4E8F\u4E90\u4E91\u4E92\u4E93",
+            "\u4E94\u4E95\u4E96\u4E97\u4E98\u4E99\u4E9A\u4E9B\u4E9C\u4E9D\u4E9E\u4E9F",
+            "\u4F00\u4F01\u4F02\u4F03\u4F04\u4F05\u4F06\u4F07\u4F08\u4F09\u4F0A\u4F0B",
+            "\u4F0C\u4F0D\u4F0E\u4F0F\u4F10\u4F11\u4F12\u4F13\u4F14\u4F15\u4F16\u4F17",
+            "\u4F18\u4F19\u4F1A\u4F1B\u4F1C\u4F1D\u4F1E\u4F1F\u4F20\u4F21\u4F22\u4F23",
+            "\u4F24\u4F25\u4F26\u4F27\u4F28\u4F29\u4F2A\u4F2B\u4F2C\u4F2D\u4F2E\u4F2F",
+            "\u4F30\u4F31\u4F32\u4F33\u4F34\u4F35\u4F36\u4F37\u4F38\u4F39\u4F3A\u4F3B",
+            "\u4F3C\u4F3D\u4F3E\u4F3F\u4F40\u4F41\u4F42\u4F43\u4F44\u4F45\u4F46\u4F47",
+            "\u4F48\u4F49\u4F4A\u4F4B\u4F4C\u4F4D\u4F4E\u4F4F\u4F50\u4F51\u4F52\u4F53",
+            "\u4F54\u4F55\u4F56\u4F57\u4F58\u4F59\u4F5A\u4F5B\u4F5C\u4F5D\u4F5E\u4F5F",
+            "\u4F60\u4F61\u4F62\u4F63\u4F64\u4F65\u4F66\u4F67\u4F68\u4F69\u4F6A\u4F6B",
+            "\u4F6C\u4F6D\u4F6E\u4F6F\u4F70\u4F71\u4F72\u4F73\u4F74\u4F75\u4F76\u4F77"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:mobs_2.png",
+         "ascent": 13,
+         "height": 20,
+         "chars": [
+            "\u4F78\u4F79\u4F7A\u4F7B\u4F7C\u4F7D\u4F7E\u4F7F\u4F80\u4F81\u4F82\u4F83",
+            "\u4F84\u4F85\u4F86\u4F87\u4F88\u4F89\u4F8A\u4F8B\u4F8C\u4F8D\u4F8E\u4F8F",
+            "\u4F90\u4F91\u4F92\u4F93\u4F94\u4F95\u4F96\u4F97\u4F98\u4F99\u4F9A\u4F9B",
+            "\u4F9C\u4F9D\u4F9E\u4F9F\u4FA0\u4FA1\u4FA2\u4FA3\u4FA4\u4FA5\u4FA6\u4FA7",
+            "\u4FA8\u4FA9\u4FAA\u4FAB\u4FAC\u4FAD\u4FAE\u4FAF\u4FB0\u4FB1\u4FB2\u4FB3",
+            "\u4FB4\u4FB5\u4FB6\u4FB7\u4FB8\u4FB9\u4FBA\u4FBB\u4FBC\u4FBD\u4FBE\u4FBF",
+            "\u4FC0\u4FC1\u4FC2\u4FC3\u4FC4\u4FC5\u4FC6\u4FC7\u4FC8\u4FC9\u4FCA\u4FCB",
+            "\u4FCC\u4FCD\u4FCE\u4FCF\u4FD0\u4FD1\u4FD2\u4FD3\u4FD4\u4FD5\u4FD6\u4FD7",
+            "\u4FD8\u4FD9\u4FDA\u4FDB\u4FDC\u4FDD\u4FDE\u4FDF\u4FE0\u4FE1\u4FE2\u4FE3",
+            "\u4FE4\u4FE5\u4FE6\u4FE7\u4FE8\u4FE9\u4FEA\u4FEB\u4FEC\u4FED\u4FEE\u4FEF",
+            "\u4FF0\u4FF1\u4FF2\u4FF3\u4FF4\u4FF5\u4FF6\u4FF7\u4FF8\u4FF9\u4FFA\u4FFB",
+            "\u4FFC\u4FFD\u4FFE\u4FFF\u5000\u5001\u5002\u5003\u5004\u5005\u5006\u5007"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:mobs_3.png",
+         "ascent": 13,
+         "height": 20,
+         "chars": [
+            "\u5008\u5009\u500A\u500B\u500C\u500D\u500E\u500F\u5010\u5011\u5012\u5013",
+            "\u5014\u5015\u5016\u5017\u5018\u5019\u501A\u501B\u501C\u501D\u501E\u501F",
+            "\u5020\u5021\u5022\u5023\u5024\u5025\u5026\u5027\u5028\u5029\u502A\u502B",
+            "\u502C\u502D\u502E\u502F\u5030\u5031\u5032\u5033\u5034\u5035\u5036\u5037",
+            "\u5038\u5039\u503A\u503B\u503C\u503D\u503E\u503F\u5040\u5041\u5042\u5043",
+            "\u5044\u5045\u5046\u5047\u5048\u5049\u504A\u504B\u504C\u504D\u504E\u504F",
+            "\u5050\u5051\u5052\u5053\u5054\u5055\u5056\u5057\u5058\u5059\u505A\u505B",
+            "\u505C\u505D\u505E\u505F\u5060\u5061\u5062\u5063\u5064\u5065\u5066\u5067",
+            "\u5068\u5069\u506A\u506B\u506C\u506D\u506E\u506F\u5070\u5071\u5072\u5073",
+            "\u5074\u5075\u5076\u5077\u5078\u5079\u507A\u507B\u507C\u507D\u507E\u507F",
+            "\u5080\u5081\u5082\u5083\u5084\u5085\u5086\u5087\u5088\u5089\u508A\u508B",
+            "\u508C\u508D\u508E\u508F\u5090\u5091\u5092\u5093\u5094\u5095\u5096\u5097"
+            ]
+        },
+        {
+         "type": "ttf",
+         "file": "minecraft:negative_spaces.ttf",
+         "shift": [0.0, 0.0],
+         "size": 10.0,
+         "oversample": 1.0
+        }
+    ]
+}
